@@ -4,6 +4,6 @@ Human pose tracking is a challenging task that involves estimating the human pos
 ![image](https://github.com/yhtian2023/DFSTrack/blob/main/img-folder/dfstrack.jpg)<br />
 
 Our main contributions are summarized as follows:
-* We propose a HDP module to recover missed human targets from the detector in the detection stage. And we propose a DFSTrack to handle incorrect association matches among human poses across frames.
-* In order to enable the DFSTrack to capture both temporal and spatial feature information of human poses, we propose a RGCN block and the DST Transformer.
+* We propose a **HDP module** to recover missed human targets from the detector in the detection stage. And we propose a **DFSTrack** to handle incorrect association matches among human poses across frames.
+* In order to enable the DFSTrack to capture both temporal and spatial feature information of human poses, we propose a **RGCN block** and the **DST Transformer**.
 * DFSTrack achieves good performance on the human pose tracking datasets. Our method achieves a MOTA score of 69.0. Compared with LightTrack [​14​] and CorrTrack [​17​], which also use Siamese network for human tracking, the MOTA scores of our method are improved by 4.1 and 0.2, respectively.
