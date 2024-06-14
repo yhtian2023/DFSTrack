@@ -1,7 +1,7 @@
 # DFSTrack
 Human pose tracking is a challenging task that involves estimating the human pose and tracking it across multiple frames in a video sequence. In recent years, deep learning-based methods have made significant progress in this field, achieving state-of-the-art performance. However, due to complex background and occlusion among people missed detection and incorrect association matching are still the challenging problems. To address these issues, we adopt a top-down framework to perform human pose tracking in the paper.
 
-
+![image](https://github.com/yhtian2023/DFSTrack/blob/main/img-folder/dfstrack.jpg)<br />
 
 Our main contributions are summarized as follows:
 * We propose a HDP module to recover missed human targets from the detector in the detection stage. And we propose a DFSTrack to handle incorrect association matches among human poses across frames.
