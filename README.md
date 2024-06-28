@@ -11,6 +11,6 @@ Our main contributions are summarized as follows:
 [paper](https://doi.org/10.1016/j.imavis.2024.105117)
 
 # Visualization
-![image](https://github.com/yhtian2023/DFSTrack/blob/main/img-folder/dfstrack.jpg)<br />
+![image](https://github.com/yhtian2023/DFSTrack/blob/main/img-folder/Visualization.jpg)<br />
 # Acknowledgements
 Great thanks for these papers and their open-source codes：[HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch), [DarkPose](https://github.com/ilovepose/DarkPose)
